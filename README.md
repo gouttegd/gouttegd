@@ -50,6 +50,6 @@ In no particular order:
 * [Uberon anatomy ontology](https://github.com/obophenotype/uberon)
   * contributor, especially for insect anatomy & cross-species mappings
   * pipeline engineering & tech support
-* [Cell Ontology (CL)](https://github.com/obophenotype/cell-ontology) (contributor, tech support)
+* [Cell Ontology (CL)](https://github.com/obophenotype/cell-ontology)
   * contributor, especially for insect cell types & cross-species mappings
   * pipeline engineering & tech support
