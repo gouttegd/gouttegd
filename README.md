@@ -27,6 +27,13 @@ In no particular order:
 * [SSSOM specification](https://github.com/mapping-commons/sssom) (co-editor)
 * [SSSOM-Java](https://github.com/gouttegd/sssom-java) (lead developer)
 
+#### Scientific imaging
+
+(No longer really maintained since I stopped being a wet lab scientist.)
+
+* [ImageJ plugins](https://git.incenp.org/damien/imagej-plugins)
+* [PDCSL-ImageJ](https://github.com/PDCSLab/PDCSL-ImageJ)
+
 #### Personal projects
 
 * [Pebble](https://git.incenp.org/damien/pebble), a command-line client for
