@@ -4,7 +4,7 @@ Damien Goutte-Gattat, PhD (he/him)
 
 In no particular order:
 
-* 🧑‍🔬 Biocurator and ontology editor at [FlyBase](https://flybase.org/)
+* 🧑‍🔬 Research software engineer at [German BioImaging e.V.](https://gerbi-gmb.de/)
 * 🧑‍💻 Free software developer
 * 🧑‍💻 [Slackware](http://www.slackware.com/) user
 * 🥷 Digital privacy advocate
@@ -29,10 +29,10 @@ In no particular order:
 
 #### Scientific imaging
 
-(No longer really maintained since I stopped being a wet lab scientist.)
-
-* [ImageJ plugins](https://git.incenp.org/damien/imagej-plugins)
-* [PDCSL-ImageJ](https://github.com/PDCSLab/PDCSL-ImageJ)
+* GerBI projects (TBA)
+* Old personal projects (no longer really maintained):
+    * [ImageJ plugins](https://git.incenp.org/damien/imagej-plugins)
+    * [PDCSL-ImageJ](https://github.com/PDCSLab/PDCSL-ImageJ)
 
 #### Personal projects
 
@@ -48,10 +48,8 @@ In no particular order:
 * [Biopython](https://github.com/biopython/biopython)
 * [GnuPG](https://gnupg.org/)
 
-## As biocurator and ontology editor
+## As ontology engineer (formerly)
 
-* [Fuzzy-onions](https://github.com/FlyBase/fuzzy-onions)
-  * Support scripts for curation of single-cell RNA-sequencing data into FlyBase
 * [Drosophila Anatomy Ontology (FBbt)](https://github.com/FlyBase/drosophila-anatomy-developmental-ontology)
   * co-editor
 * [Uberon anatomy ontology](https://github.com/obophenotype/uberon)
